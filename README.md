@@ -17,7 +17,7 @@ Procure pela linha do seu usuário, ela deve estar mais no final do arquivo, log
 
 - Em seguida para instalação do **Oh-my-zshell** digite o seguinte comando no terminal do Linux: </br>
   `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
-- Instale a font firacode utilizando o seguinte comando no terminal do Linux: </br>
+- Instale a fonte **Firacode** utilizando o seguinte comando no terminal do Linux: </br>
   `sudo apt install fonts-firacode`
 
 
