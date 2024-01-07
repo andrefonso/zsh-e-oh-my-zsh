@@ -1,4 +1,5 @@
 # Instruções para instalação do Zsh e Oh-my-zshell.
+***
 
 ## **Zsh:**
 - Para instalar o zsh digite a linha de comando abaixo no terminal do Linux:</br></br>
