@@ -12,5 +12,9 @@ Procure pela linha do seu usuário, ela deve estar mais no final do arquivo, log
 ## **Oh-my-zshell:**
 <img src="/Images/ohmyzsh.png">
 
+- Para instalação do Oh-my-zshell digite o seguinte comando no terminal do Linux: </br></br>
+
+
+
 
 
