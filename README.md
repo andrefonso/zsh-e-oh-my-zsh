@@ -12,7 +12,7 @@ Procure pela linha do seu usuário, ela deve estar mais no final do arquivo, log
 ## **Oh-my-zshell:**
 <img src="/Images/ohmyzsh.png">
 
-- Antes da instalaçaõ do Oh-my-zshell instale as ferramentas **git, curl e winget** digitando o seguinte comando no terminal do Linux: </br></br>
+- Antes da instalaçaõ do Oh-my-zshell instale as ferramentas **git, curl e winget** digitando o seguinte comando no terminal do Linux: </br>
 
 `sudo nano git curl winget`
 
