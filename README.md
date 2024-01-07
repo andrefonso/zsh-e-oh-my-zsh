@@ -13,7 +13,7 @@ Procure pela linha do seu usuário, ela deve estar mais no final do arquivo, log
 <img src="/Images/ohmyzsh.png">
 
 - Antes da instalação do **Oh-my-zshell** instale as ferramentas **git, curl e winget** digitando o seguinte comando no terminal do Linux: </br>
-`sudo nano git curl winget`
+`sudo apt install git curl winget`
 
 - Em seguida para instalação do **Oh-my-zshell** digite o seguinte comando no terminal do Linux: </br>
   `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
