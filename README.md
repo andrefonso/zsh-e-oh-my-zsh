@@ -34,6 +34,14 @@ Procure pela linha onde consta o nome do seu usuário, ela deve estar mais no fi
 - **Zsh-autosuggestions:** digite o seguinte comando no terminal:</br>
 `git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
 
+- **Fzf:** digite os seguintes comandos no terminal:</br>
+```
+git clone --depth 1 https://github.com/junegunn/fzf.git~/.fzf
+~/.fzf/install
+
+```
+
+
 
 
 
