@@ -45,6 +45,7 @@ git clone --depth 1 https://github.com/junegunn/fzf.git~/.fzf
 - **Adicinar os plugins no arquivo .zshrc:** O próximo passo é adicionar os nomes dos plugins na relação de plugins instalados, Portanto, veja como ficará a configuração dos plugins no arquivo .zshrc o qual deverá ser editado com o **NANO**:
   - Edite o arquivo .zshrc conforme o comando a seguir:</br>
  `sudo nano ~/.zshrc`
+  - Na linha do arquivo onde se encontra as sessões de plugins você verá que já existe o plugin *git*, digite após ele os nomes dos demais puglins separados por espaço, salve o arquivo com CTRL+O e saia do NANO com CTRL+X. A linha onde conterá os plugins deverá ficar semelhante a imagem abaixo:</br>
 
 
 
