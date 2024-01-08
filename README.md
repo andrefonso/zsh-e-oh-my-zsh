@@ -30,7 +30,6 @@ Procure pela linha onde consta o nome do seu usuário, ela deve estar mais no fi
 ### **Instalação dos plugins do Oh-my-Zshell:**
 - **Syntax-highlighting:** digite o seguinte comando no terminal:</br>
   `git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting`
-  
 
 
 
