@@ -9,6 +9,8 @@
 
 Procure pela linha onde consta o nome do seu usuário, ela deve estar mais no final do arquivo, logo ao final da linha”:/bin/bash“, tudo o que temos a fazer aqui é trocar a palavra “bash” por “zsh“. Veja na tela abaixo a linha onde aparece o nome do usuário, onde aparece referência a **"bin/bash"**. No local de **"bash"** coloque **"zsh"** salve o arquivo e reinicie o sistema para o Zsh se tornar o bash padrão.
 
+<img src="/Images/arq_etc_pws.png">
+
 ## **Oh-my-zshell:**
 <img src="/Images/ohmyzsh.png">
 
