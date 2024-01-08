@@ -21,7 +21,7 @@ Procure pela linha onde consta o nome do seu usuário, ela deve estar mais no fi
   `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
 - Instale a fonte **Firacode** utilizando o seguinte comando no terminal do Linux: </br>
   `sudo apt install fonts-firacode`
-    - A font Firecode é a que permite um visual mais agradável do prompt quando começarmos a utilizar o Oh-my-Zshell, pois algumas fontes podem gerar caracteres e símbolos que não agradam ao usuário. Após a instalação da fonte firecode reinicie o terminal.
+    - A fonte Firecode é uma fonte que proporciona um visual mais agradável do prompt quando começamos a utilizar o Oh-my-Zshell, pois algumas fontes podem gerar caracteres e símbolos que não agradam ao usuário. Após a instalação da fonte firecode reinicie o terminal.
 
 
 
