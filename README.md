@@ -38,7 +38,6 @@ Procure pela linha onde consta o nome do seu usuário, ela deve estar mais no fi
 ```
 git clone --depth 1 https://github.com/junegunn/fzf.git~/.fzf
 ~/.fzf/install
-
 ```
 
 
