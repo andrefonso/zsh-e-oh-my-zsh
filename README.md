@@ -28,13 +28,13 @@ Procure pela linha onde consta o nome do seu usuário, ela deve estar mais no fi
   - Para que a alteração do tema surta efeito feche o terminal e abra novamente ou então digite o seguinte comando no terminal:
   <br>`source .zshrc`
 ### **Instalação dos plugins do Oh-my-Zshell:**
-- **Zsh-Syntax-highlighting:** digite o seguinte comando no terminal:</br>
+- **Zsh-Syntax-highlighting:** esse plugin é utilizado para iluminar, ou seja, para destacar os comandos enquanto eles são digitados. Dessa forma, se o comando estiver correto, ele será exibido na cor verde, caso contrário, o comando ficará em vermelho. Isso facilita o trabalho da pessoa programadora, pois ela poderá identificar com facilidade quando digitar um comando errado. Para instalação do plugin digite o seguinte comando no terminal:</br>
   `git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting`
 
 - **Zsh-autosuggestions:** digite o seguinte comando no terminal:</br>
 `git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
 
-- **Fzf:** esse plugin possibilita a pesquisa de arquivos e pastas pelo terminal de forma simples e rápida, além de comandos já digitado. Para baixar e instalar o plubin digite os seguintes comandos no terminal:</br>
+- **Fzf:** esse plugin possibilita a pesquisa de arquivos e pastas pelo terminal de forma simples e rápida, além de comandos já digitados. Para baixar e instalar o plugin digite os seguintes comandos no terminal:</br>
 ```
 git clone --depth 1 https://github.com/junegunn/fzf.git~/.fzf
 ~/.fzf/install
