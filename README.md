@@ -31,7 +31,7 @@ Procure pela linha onde consta o nome do seu usuário, ela deve estar mais no fi
 - **Zsh-Syntax-highlighting:** esse plugin é utilizado para iluminar, ou seja, para destacar os comandos enquanto eles são digitados. Dessa forma, se o comando estiver correto, ele será exibido na cor verde, caso contrário, o comando ficará em vermelho. Isso facilita o trabalho da pessoa programadora, pois ela poderá identificar com facilidade quando digitar um comando errado. Para instalação do plugin digite o seguinte comando no terminal:</br>
   `git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting`
 
-- **Zsh-autosuggestions:** digite o seguinte comando no terminal:</br>
+- **Zsh-autosuggestions:** esse plugin é extremamente útil para as pessoas desenvolvedoras, pois ele faz a sugestão de comandos com base no que já foi digitado. Portanto, ele funciona como uma ferramenta para autocompletar o que está sendo digitado. Para instalação do plugin digite o seguinte comando no terminal:</br>
 `git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
 
 - **Fzf:** esse plugin possibilita a pesquisa de arquivos e pastas pelo terminal de forma simples e rápida, além de comandos já digitados. Para baixar e instalar o plugin digite os seguintes comandos no terminal:</br>
