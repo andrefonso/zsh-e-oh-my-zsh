@@ -47,8 +47,9 @@ git clone --depth 1 https://github.com/junegunn/fzf.git~/.fzf
  `sudo nano ~/.zshrc`
   - Na linha do arquivo onde se encontra as sessões de plugins você verá que já existe o plugin *git*, digite após ele os nomes dos demais puglins separados por espaço, salve o arquivo com **CTRL+O** e saia do **NANO** com **CTRL+X**. A linha onde conterá os plugins deverá ficar semelhante a imagem abaixo:</br>
 <img src="/Images/plugins.png">
-
--> Repare que constam outros plugins na imagem acima, além dos que foram adicionados.
+  - Além dos plugins que forma instalados, consta na imagem acima os seguintes plugins os quais já integram o oh-my-zshell, bastando incluídos na lista de plugins no arquivo .zshrc, a saber:
+     - **colored-man-pages:** Este plugin adiciona cores às páginas do comando *man* (manual)
+     - **web-search:** Este puglin permite consultas no google que podem ser acionadas a partir do terminal do Linux digitando-se por exemplo **"google plugins"** o que fará com que o navegador abra uma pagina com links para pesquisar o termo o palavra desejado, que neste caso foi indicada a palavara *plugins*.
 
 
 
