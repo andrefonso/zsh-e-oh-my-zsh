@@ -43,14 +43,14 @@ git clone --depth 1 https://github.com/junegunn/fzf.git~/.fzf
 `git clone https://github.com/supercrabtree/k $ZSH_CUSTOM/plugins/k`
 
 - **Adicionar os plugins no arquivo .zshrc:** O próximo passo é adicionar os nomes dos plugins na relação de plugins instalados, Portanto, veja como ficará a configuração dos plugins no arquivo .zshrc o qual deverá ser editado com o **NANO**:
-  - Edite o arquivo .zshrc conforme o comando a seguir:</br>
+  - Edite o arquivo **.zshrc** conforme o comando a seguir:</br>
  `sudo nano ~/.zshrc`
   - Na linha do arquivo onde se encontra as sessões de plugins você verá que já existe o plugin *git*, digite após ele os nomes dos demais puglins separados por espaço, salve o arquivo com **CTRL+O** e saia do **NANO** com **CTRL+X**. A linha onde conterá os plugins deverá ficar semelhante a imagem abaixo:</br>
 <img src="/Images/plugins.png">
 
-  - Além dos plugins que foram instalados, consta na imagem acima os seguintes plugins os quais já integram o oh-my-zshell, bastando incluí-los na lista de plugins no arquivo .zshrc, a saber:</br>
+  - Além dos plugins que foram instalados, consta na imagem acima os seguintes plugins os quais já integram o oh-my-zshell, bastando incluí-los na lista de plugins no arquivo **.zshrc**, a saber:</br>
     -  **colored-man-pages:** Este plugin adiciona cores às páginas do comando *man* (manual)
-    -  **web-search:** Este puglin permite consultas no google que podem ser acionadas a partir do terminal do Linux digitando-se por exemplo **"google plugins"** o que fará com que o navegador abra uma pagina com links para pesquisar o termo o palavra desejado, que neste caso foi indicada a palavara *plugins*.
+    -  **web-search:** Este puglin permite consultas no google que podem ser acionadas a partir do terminal do Linux digitando-se por exemplo **"google plugins"** o que fará com que o navegador abra uma pagina com links para pesquisar o termo ou palavra desejado, que neste caso foi indicada a palavara *plugins*.
     -  **dircycle:** Este plug-in permite a você alternar/navegar entre pastas/diretórios acessados no terminal do Linux. Ele usa um pequeno truque que permite percorrer os diretórios acessados para a esquerda ou para a direita usando Ctrl+ Shift+ Left/ Right.
 
 [Clique no link abaixo para acessar o site onde constam boas dicas para instalação do Zsh e Oh-My-Zshell] (https://blog.betrybe.com/ferramentas/oh-my-zsh/)
