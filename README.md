@@ -42,8 +42,8 @@ git clone --depth 1 https://github.com/junegunn/fzf.git~/.fzf
 - **K:** é útil para exibir detalhes como a data de criação, o tamanho e as permissões de uso de arquivos e pastas. Para instalar essa ferramenta, basta digitar o seguinte comando em seu terminal: </br>
 `git clone https://github.com/supercrabtree/k $ZSH_CUSTOM/plugins/k`
 
-- **Adicinar os plugins mo arquivo .zshrc:** O próximo passo é adicionar os nomes dos plugins na relação de plugins instalados, Portanto, veja como ficará a configuração dos plugins no arquivo .zshrc o qual deverá ser editado com o NANO:
- - Edite o arquivo .zshrc conforme o comando a seguir:</br>
+- **Adicinar os plugins no arquivo .zshrc:** O próximo passo é adicionar os nomes dos plugins na relação de plugins instalados, Portanto, veja como ficará a configuração dos plugins no arquivo .zshrc o qual deverá ser editado com o **NANO**:
+  - Edite o arquivo .zshrc conforme o comando a seguir:</br>
  `sudo nano ~/.zshrc`
 
 
