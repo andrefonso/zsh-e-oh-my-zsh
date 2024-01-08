@@ -26,7 +26,6 @@ Procure pela linha onde consta o nome do seu usuário, ela deve estar mais no fi
 - **Alteração do tema do Oh-my-Zshell:** para alterar o tema do Oh-My-Zshell edite com o **NANO** o arquivo **.zshrc** e na linha onde constar **ZHS_THEME="robbyrussel"** alterar o tema para **"agnoster"** que proporcionará um visual agradável no prompt do terminal. Após a alteração no tema, salve o arquivo com *CTRL+O* e saia do **NANO** com *CTRL+X*. Para edição do arquivo use o comando a seguir:</br>
 `sudo nano .zshrc`
   - Para que a alteração do tema surta efeito feche o terminal e abra novamente ou então digite o seguinte comando no terminal:
-  
   `source .zshrc`
 
 
