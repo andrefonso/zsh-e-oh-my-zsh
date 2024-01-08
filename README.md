@@ -46,6 +46,7 @@ git clone --depth 1 https://github.com/junegunn/fzf.git~/.fzf
   - Edite o arquivo .zshrc conforme o comando a seguir:</br>
  `sudo nano ~/.zshrc`
   - Na linha do arquivo onde se encontra as sessões de plugins você verá que já existe o plugin *git*, digite após ele os nomes dos demais puglins separados por espaço, salve o arquivo com **CTRL+O** e saia do **NANO** com **CTRL+X**. A linha onde conterá os plugins deverá ficar semelhante a imagem abaixo:</br>
+<img src="/Images/plugins.png">
 
 
 
