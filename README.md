@@ -24,9 +24,9 @@ Procure pela linha onde consta o nome do seu usuário, ela deve estar mais no fi
     - A fonte Firacode é uma fonte que proporciona um visual mais agradável do texto e do prompt do terminal quando começamos a utilizar o Oh-my-Zshell, pois algumas fontes podem gerar caracteres e símbolos que não agradam ao usuário. Após a instalação da fonte firecode reinicie o terminal.
 - **Alteração da fonte do terminal:** Abra o terminal para alterar a sua fonte. Para isso clique em **Editar -> Preferências -> Aparência** e no campo *fonte* selecione **Fira Code Light** e escolha o tamanho da fonte que desejar em seguida feche a janela de configuração e reinicie o terminal para que a alteração da fonte surta efeito.
 - **Alteração do tema do Oh-my-Zshell:** para alterar o tema do Oh-My-Zshell edite com o **NANO** o arquivo **.zshrc** e na linha onde constar **ZHS_THEME="robbyrussel"** alterar o tema para **"agnoster"** que proporcionará um visual agradável no prompt do terminal. Após a alteração no tema, salve o arquivo com *CTRL+O* e saia do **NANO** com *CTRL+X*. Para edição do arquivo use o comando a seguir:</br>
-`sudo nano .zshrc`
+`sudo nano ~/.zshrc`
   - Para que a alteração do tema surta efeito feche o terminal e abra novamente ou então digite o seguinte comando no terminal:
-  <br>`source .zshrc`
+  <br>`source ~/.zshrc`
 ### **Instalação dos plugins do Oh-my-Zshell:**
 - **Zsh-Syntax-highlighting:** esse plugin é utilizado para iluminar, ou seja, para destacar os comandos enquanto eles são digitados. Dessa forma, se o comando estiver correto, ele será exibido na cor verde, caso contrário, o comando ficará em vermelho. Isso facilita o trabalho da pessoa programadora, pois ela poderá identificar com facilidade quando digitar um comando errado. Para instalação do plugin digite o seguinte comando no terminal:</br>
   `git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting`
@@ -45,7 +45,7 @@ git clone --depth 1 https://github.com/junegunn/fzf.git~/.fzf
 - **Adicinar os plugins no arquivo .zshrc:** O próximo passo é adicionar os nomes dos plugins na relação de plugins instalados, Portanto, veja como ficará a configuração dos plugins no arquivo .zshrc o qual deverá ser editado com o **NANO**:
   - Edite o arquivo .zshrc conforme o comando a seguir:</br>
  `sudo nano ~/.zshrc`
-  - Na linha do arquivo onde se encontra as sessões de plugins você verá que já existe o plugin *git*, digite após ele os nomes dos demais puglins separados por espaço, salve o arquivo com CTRL+O e saia do NANO com CTRL+X. A linha onde conterá os plugins deverá ficar semelhante a imagem abaixo:</br>
+  - Na linha do arquivo onde se encontra as sessões de plugins você verá que já existe o plugin *git*, digite após ele os nomes dos demais puglins separados por espaço, salve o arquivo com **CTRL+O** e saia do **NANO** com **CTRL+X**. A linha onde conterá os plugins deverá ficar semelhante a imagem abaixo:</br>
 
 
 
