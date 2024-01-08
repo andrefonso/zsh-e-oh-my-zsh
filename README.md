@@ -39,6 +39,8 @@ Procure pela linha onde consta o nome do seu usuário, ela deve estar mais no fi
 git clone --depth 1 https://github.com/junegunn/fzf.git~/.fzf
 ~/.fzf/install
 ```
+- **K:** é útil para exibir detalhes como a data de criação, o tamanho e as permissões de uso de arquivos e pastas. Para instalar essa ferramenta, basta digitar o seguinte comando em seu terminal: </br>
+`git clone https://github.com/supercrabtree/k $ZSH_CUSTOM/plugins/k`
 
 
 
