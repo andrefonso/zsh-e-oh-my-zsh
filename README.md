@@ -7,7 +7,7 @@
 - Após a instalação, para configurar o Zsh como bash padrão, edit com o NANO o arquivo _**/etc/passwd**_ conforme comando a seguir:</br>
 `sudo nano /etc/passwd`
 
-Procure pela linha onde consta o nome do seu usuário, ela deve estar mais no final do arquivo, logo ao final da linha”:/bin/bash“, tudo o que temos a fazer aqui é trocar a palavra “bash” por “zsh“. Veja na tela abaixo a linha onde aparece o nome do usuário, onde aparece referência a **"bin/bash"**. No local de **"bash"** coloque **"zsh"** salve o arquivo e reinicie o sistema para o Zsh se tornar o bash padrão.
+Procure pela linha onde consta o nome do seu usuário, ela deve estar mais no final do arquivo, logo ao final da linha”:/bin/bash“, tudo o que temos a fazer aqui é trocar a palavra “bash” por “zsh“. Veja na tela abaixo onde na linha em destque o nome do usuário e a referência a **"bin/bash"**. No local de **"bash"** coloque **"zsh"** salve o arquivo e reinicie o sistema para o Zsh se tornar o bash padrão.
 
 <img src="/Images/arq_etc_pws.png">
 
