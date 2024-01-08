@@ -28,6 +28,9 @@ Procure pela linha onde consta o nome do seu usuário, ela deve estar mais no fi
   - Para que a alteração do tema surta efeito feche o terminal e abra novamente ou então digite o seguinte comando no terminal:
   <br>`source .zshrc`
 ### **Instalação dos plugins do Oh-my-Zshell:**
+- **Syntax-highlighting:** digite o seguinte comando no terminal:
+  `git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting`
+  
 
 
 
