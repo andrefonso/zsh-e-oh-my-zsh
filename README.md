@@ -58,7 +58,7 @@ git clone --depth 1 https://github.com/junegunn/fzf.git~/.fzf
   - Na linha do arquivo onde se encontra as sessões de plugins você verá que já existe o plugin *git*, digite após ele os nomes dos demais plugins separados por espaço, salve o arquivo com **CTRL+O** e saia do **NANO** com **CTRL+X**. A linha onde conterá os plugins deverá ficar semelhante a linha abaixo:</br>
 **plugins=(git zsh-autosuggestions zsh-syntax-highlighting colored-man-pages web-search fzf k dircycle)**
 
-  - Além dos plugins que foram instalados, consta na imagem acima os seguintes plugins os quais já integram o oh-my-zshell, bastando incluí-los na lista de plugins no arquivo **.zshrc**, a saber:</br>
+  - Além dos plugins que foram instalados, consta na linha acima os seguintes plugins os quais já integram o Zsh, bastando incluí-los na lista de plugins no arquivo **.zshrc**, a saber:</br>
     -  **colored-man-pages:** Este plugin adiciona cores às páginas do comando *man* (manual)
     -  **web-search:** Este plugin permite consultas no google que podem ser acionadas a partir do terminal do Linux digitando-se por exemplo **"google plugins"** o que fará com que o navegador abra uma pagina com links para pesquisar o termo ou palavra desejado, que neste caso foi indicada a palavara *plugins*.
     -  **dircycle:** Este plugin permite a você alternar/navegar entre pastas/diretórios acessados no terminal do Linux. Ele usa um pequeno truque que permite percorrer os diretórios acessados para a esquerda ou para a direita usando Ctrl+ Shift+ Left/ Right.
