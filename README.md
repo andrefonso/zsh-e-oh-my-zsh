@@ -23,7 +23,7 @@ Procure pela linha onde consta o nome do seu usuário, ela deve estar mais no fi
   `sudo apt install fonts-firacode`
     - A fonte Firacode é uma fonte que proporciona um visual mais agradável do texto e do prompt do terminal quando começamos a utilizar o Oh-my-Zsh, pois algumas fontes podem gerar caracteres e símbolos que não agradam ao usuário. Após a instalação da fonte firecode reinicie o terminal.
 - **Alteração da fonte do terminal:** Abra o terminal para alterar a sua fonte. Para isso clique em **Editar -> Preferências -> Aparência** e no campo *fonte* selecione **Fira Code Light** e escolha o tamanho da fonte que desejar em seguida feche a janela de configuração e reinicie o terminal para que a alteração da fonte surta efeito.
-- **Alteração do tema do Oh-my-Zshell:** para alterar o tema do Oh-My-Zshell edite com o **NANO** o arquivo **.zshrc** e na linha onde constar **ZHS_THEME="robbyrussel"** alterar o tema para **"agnoster"** que proporcionará um visual agradável no prompt do terminal. Após a alteração no tema, salve o arquivo com **CTRL+O** e saia do **NANO** com **CTRL+X**. Para edição do arquivo use o comando a seguir:</br>
+- **Alteração do tema do Oh-my-Zsh:** para alterar o tema do Oh-My-Zsh edite com o **NANO** o arquivo **.zshrc** e na linha onde constar **ZHS_THEME="robbyrussel"** alterar o tema para **"agnoster"** que proporcionará um visual agradável no prompt do terminal. Após a alteração no tema, salve o arquivo com **CTRL+O** e saia do **NANO** com **CTRL+X**. Para edição do arquivo use o comando a seguir:</br>
 `sudo nano ~/.zshrc`
   - Para que a alteração do tema surta efeito feche o terminal e abra novamente ou então digite o seguinte comando no terminal:
   <br>`source ~/.zshrc`
