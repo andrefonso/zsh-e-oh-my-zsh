@@ -2,6 +2,16 @@
 ***
 
 ## **Zsh:**
+-**Antes de proceder as instalações, efetuar as atualizações do sistema executando os comandos abaixo no terminal:</br>**
+
+```
+sudo apt update --fix-missing
+sudo apt dist-upgrade
+sudo apt full-upgrade
+sudo apt autoremove
+sudo apt autoclean
+```
+
 - Para instalar o zsh digite a linha de comando abaixo no terminal do Linux:</br>
 `sudo apt install zsh` </br></br>
 - Após a instalação, para configurar o Zsh como bash padrão, edit com o NANO o arquivo _**/etc/passwd**_ conforme comando a seguir:</br>
