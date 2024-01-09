@@ -11,7 +11,7 @@ Procure pela linha onde consta o nome do seu usuário, ela deve estar mais no fi
 
 <img src="/Images/arq_etc_pws.png">
 
-## **Oh-my-zshell:**
+## **Oh-my-zsh:**
 <img src="/Images/ohmyzsh.png">
 
 - **Instalação do git, curl e winget:** Antes da instalação do **Oh-my-Zsh** instale as ferramentas **git, curl e winget** digitando o seguinte comando no terminal do Linux: </br>
