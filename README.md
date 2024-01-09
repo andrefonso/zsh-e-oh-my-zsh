@@ -27,7 +27,7 @@ Procure pela linha onde consta o nome do seu usuário, ela deve estar mais no fi
 `sudo nano ~/.zshrc`
   - Para que a alteração do tema surta efeito feche o terminal e abra novamente ou então digite o seguinte comando no terminal:
   <br>`source ~/.zshrc`
-### **Instalação dos plugins do Oh-my-Zsh:**
+### **Instalação dos plugins do Oh-my-zsh:**
 - **Zsh-Syntax-highlighting:** esse plugin é utilizado para iluminar, ou seja, para destacar os comandos enquanto eles são digitados. Dessa forma, se o comando estiver correto, ele será exibido na cor verde, caso contrário, o comando ficará em vermelho. Isso facilita o trabalho da pessoa programadora, pois ela poderá identificar com facilidade quando digitar um comando errado. Para instalação do plugin digite o seguinte comando no terminal:</br>
   `git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting`
 
