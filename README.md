@@ -4,7 +4,7 @@
 ## **Zsh:**
 -**Antes de proceder as instalações, efetuar as atualizações do sistema executando os comandos abaixo no terminal:</br>**
 
-``` bash
+```
 sudo apt update --fix-missing
 sudo apt dist-upgrade
 sudo apt full-upgrade
