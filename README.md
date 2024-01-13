@@ -1,4 +1,4 @@
-# Instruções para instalação do Zsh e Oh-my-zsh.
+8# Instruções para instalação do Zsh e Oh-my-zsh.
 ***
 
 ## **Zsh:**
@@ -63,7 +63,7 @@ git clone --depth 1 https://github.com/junegunn/fzf.git~/.fzf
     -  **web-search:** Este plugin permite consultas no google que podem ser acionadas a partir do terminal do Linux digitando-se por exemplo **"google plugins"** o que fará com que o navegador abra uma pagina com links para pesquisar o termo ou palavra desejado, que neste caso foi indicada a palavara *plugins*.
     -  **dircycle:** Este plugin permite a você alternar/navegar entre pastas/diretórios acessados no terminal do Linux. Ele usa um pequeno truque que permite percorrer os diretórios acessados para a esquerda ou para a direita usando Ctrl+ Shift+ Left/ Right.
 
-[Clique no link abaixo para acessar o site onde constam boas dicas para instalação do Zsh e Oh-my-zsh] (https://blog.betrybe.com/ferramentas/oh-my-zsh/)
+Para mais orientações clique [aqui](https://blog.betrybe.com/ferramentas/oh-my-zsh/)
 
 
 
