@@ -1,4 +1,4 @@
-8# Instruções para instalação do Zsh e Oh-my-zsh.
+## Instruções para instalação do Zsh e Oh-my-zsh.
 ***
 
 ## **Zsh:**
