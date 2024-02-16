@@ -46,8 +46,8 @@ Procure pela linha onde consta o nome do seu usuário, ela deve estar mais no fi
 
 - **Fzf:** esse plugin possibilita a pesquisa de arquivos e pastas pelo terminal de forma simples e rápida, além de comandos já digitados. Para baixar e instalar o plugin digite os seguintes comandos no terminal:</br>
 ```
-git clone --depth 1 https://github.com/junegunn/fzf.git~/.fzf
-sudo fzf/install
+git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
+~/.fzf/install
 ```
 - **K:** é útil para exibir detalhes como a data de criação, o tamanho e as permissões de uso de arquivos e pastas. Para instalar essa ferramenta, basta digitar o seguinte comando em seu terminal: </br>
 `git clone https://github.com/supercrabtree/k $ZSH_CUSTOM/plugins/k`
