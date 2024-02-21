@@ -25,7 +25,7 @@ Procure pela linha onde consta o nome do seu usuário, ela deve estar mais no fi
 <img src="/Images/ohmyzsh.png">
 
 - **Instalação do git, curl e winget:** Antes da instalação do **Oh-my-zsh** instale as ferramentas **git, curl e winget** digitando o seguinte comando no terminal do Linux: </br>
-`sudo apt install git curl winget`
+`sudo apt install git curl wget`
 
 - **Instalação do Oh-my-zsh:** Para instalação do **Oh-my-zsh** digite o seguinte comando no terminal do Linux: </br>
   `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
