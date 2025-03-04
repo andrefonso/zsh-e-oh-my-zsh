@@ -47,11 +47,12 @@ sudo apt install fonts-firacode
 ```sh
 sudo nano ~/.zshrc
 ```
-  - Para que a alteração do tema surta efeito feche o terminal e abra novamente ou então digite o seguinte comando no terminal:
-  <br>
-  ```sh
-  source ~/.zshrc
-  ```
+- Para que a alteração do tema surta efeito feche o terminal e abra novamente ou então digite o seguinte comando no terminal:
+
+```sh
+source ~/.zshrc
+```
+
 ### **Instalação dos plugins do Oh-my-zsh:**
 - **Zsh-Syntax-highlighting:** esse plugin é utilizado para iluminar, ou seja, para destacar os comandos enquanto eles são digitados. Dessa forma, se o comando estiver correto, ele será exibido na cor verde, caso contrário, o comando ficará em vermelho. Isso facilita o trabalho da pessoa programadora, pois ela poderá identificar com facilidade quando digitar um comando errado. Para instalação do plugin digite o seguinte comando no terminal:</br>
 ```sh
