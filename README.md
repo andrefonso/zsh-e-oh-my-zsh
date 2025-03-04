@@ -48,7 +48,10 @@ sudo apt install fonts-firacode
 sudo nano ~/.zshrc
 ```
   - Para que a alteração do tema surta efeito feche o terminal e abra novamente ou então digite o seguinte comando no terminal:
-  <br>`source ~/.zshrc`
+  <br>
+  ```sh
+  source ~/.zshrc
+  ```
 ### **Instalação dos plugins do Oh-my-zsh:**
 - **Zsh-Syntax-highlighting:** esse plugin é utilizado para iluminar, ou seja, para destacar os comandos enquanto eles são digitados. Dessa forma, se o comando estiver correto, ele será exibido na cor verde, caso contrário, o comando ficará em vermelho. Isso facilita o trabalho da pessoa programadora, pois ela poderá identificar com facilidade quando digitar um comando errado. Para instalação do plugin digite o seguinte comando no terminal:</br>
 ```sh
@@ -72,7 +75,9 @@ git clone https://github.com/supercrabtree/k $ZSH_CUSTOM/plugins/k
 
 - **Adicionar os plugins no arquivo .zshrc:** O próximo passo é adicionar os nomes dos plugins na relação de plugins instalados, Portanto, veja como ficará a configuração dos plugins no arquivo **.zshrc** o qual deverá ser editado com o **NANO**:
   - Edite o arquivo **.zshrc** conforme o comando a seguir:</br>
- `sudo nano ~/.zshrc`
+  ```sh
+  sudo nano ~/.zshrc
+  ```
   - Na linha do arquivo onde se encontra as sessões de plugins você verá que já existe o plugin *git*, digite após ele os nomes dos demais plugins separados por espaço, salve o arquivo com **CTRL+O** e saia do **NANO** com **CTRL+X**. A linha onde conterá os plugins deverá ficar semelhante a linha abaixo:</br>
 **plugins=(git zsh-autosuggestions zsh-syntax-highlighting colored-man-pages web-search fzf k dircycle)**
 
